@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\SimpleLoop\SimpleLoop\bin\Debug\net6.0\SimpleLoop.exe
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\SimpleLoop\SimpleLoop\bin\Debug\net6.0\SimpleLoop.deps.json
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\SimpleLoop\SimpleLoop\bin\Debug\net6.0\SimpleLoop.runtimeconfig.json
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\SimpleLoop\SimpleLoop\bin\Debug\net6.0\SimpleLoop.dll
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\SimpleLoop\SimpleLoop\bin\Debug\net6.0\SimpleLoop.pdb
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\SimpleLoop\SimpleLoop\obj\Debug\net6.0\SimpleLoop.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\SimpleLoop\SimpleLoop\obj\Debug\net6.0\SimpleLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\SimpleLoop\SimpleLoop\obj\Debug\net6.0\SimpleLoop.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\SimpleLoop\SimpleLoop\obj\Debug\net6.0\SimpleLoop.AssemblyInfo.cs
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\SimpleLoop\SimpleLoop\obj\Debug\net6.0\SimpleLoop.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\SimpleLoop\SimpleLoop\obj\Debug\net6.0\SimpleLoop.dll
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\SimpleLoop\SimpleLoop\obj\Debug\net6.0\refint\SimpleLoop.dll
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\SimpleLoop\SimpleLoop\obj\Debug\net6.0\SimpleLoop.pdb
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\SimpleLoop\SimpleLoop\obj\Debug\net6.0\SimpleLoop.genruntimeconfig.cache
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\SimpleLoop\SimpleLoop\obj\Debug\net6.0\ref\SimpleLoop.dll
